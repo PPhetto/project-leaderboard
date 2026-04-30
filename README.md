@@ -18,8 +18,9 @@ This project focuses on building a complete web application with authentication,
 - Structured fullstack project
 
 ## 🚀 How to Run Locally
-Clone the repository:
-git clone https://github.com/PPhetto/Ranking-work-website.git
+Demo in vercel : https://project-leaderboard-qmf4-im7y9m5s1-pphettos-projects.vercel.app/
+//////////////////
+Clone the repository: git clone https://github.com/PPhetto/Ranking-work-website.git
 cd Ranking-work-website
 Install dependencies: npm install
 Run the development server: npm run dev
