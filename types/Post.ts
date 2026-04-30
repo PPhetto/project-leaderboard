@@ -5,6 +5,11 @@ export type Post = {
     image: string
 }
 
+export type Postsec = {
+    post: Post[]
+    role: string
+}
+
 export type DeletePost = {
     _id: string
 }
